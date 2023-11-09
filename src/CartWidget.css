@@ -1,0 +1,21 @@
+/* CartWidget.css */
+
+.cart-widget {
+  display: flex;
+  align-items: center;
+  cursor: pointer;
+}
+
+.cart-icon {
+  max-width: 10%;
+  height: auto;
+}
+
+.cart-badge {
+  background-color: red;
+  color: white;
+  font-size: 12px;
+  padding: 2px 5px;
+  border-radius: 50%;
+  margin-left: 5px;
+}
